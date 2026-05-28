@@ -1,0 +1,33 @@
+@model FirstMVCWebApp.Models.Product
+@{
+    ViewData["Title"] = "Create Product";
+}
+
+<div class="container mt-5">
+    <h2>Create Product</h2>
+
+    <form asp-action="Create" method="post">
+        <div class="mb-3">
+            <label class="form-label">Name</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Description</label>
+            <textarea asp-for="Description" class="form-control"></textarea>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Color</label>
+            <input class="form-control" asp-for="Color" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Price</label>
+            <input asp-for="Price" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Stock</label>
+            <input asp-for="Stock" class="form-control" />
+        </div>
+        <button class="btn btn-primary">Create</button>
+        <a class="btn btn-secondary ms-2" asp-action="Index">Back</a>
+    </form>
+</div>

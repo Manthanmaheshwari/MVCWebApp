@@ -1,0 +1,482 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Scripts\\CreateProductsTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\views\\dashboard\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\views\\dashboard\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\scripts\\reconcile_migrations_and_users.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\scripts\\reconcile_migrations_and_users.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\migrations\\20260523060000_addproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\migrations\\20260523060000_addproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\migrations\\20260523051502_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\migrations\\20260523051502_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\wwwroot\\images\\placeholder.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\wwwroot\\images\\placeholder.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\wwwroot\\lib\\toastr\\toastr.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\wwwroot\\lib\\toastr\\toastr.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\wwwroot\\css\\site-custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\wwwroot\\css\\site-custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\wwwroot\\js\\site-interactions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\wwwroot\\js\\site-interactions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|c:\\users\\asus\\desktop\\firstmvcwebapp\\firstmvcwebapp\\project_structure.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{21FB9A66-5094-A9C6-8EF3-B344CDF5B58C}|FirstMVCWebApp\\FirstMVCWebApp.csproj|solutionrelative:firstmvcwebapp\\project_structure.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FirstMVCWebApp\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:36:06.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FirstMVCWebApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T03:31:56.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FirstMVCWebApp\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAnwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T15:36:11.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "FirstMVCWebApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T03:33:17.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FirstMVCWebApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T04:42:50.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FirstMVCWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T07:18:46.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "FirstMVCWebApp\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T05:48:19.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "FirstMVCWebApp\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T03:44:48.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FirstMVCWebApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwFwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T05:36:15.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Dashboard\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Views\\Dashboard\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Dashboard\\Edit.cshtml",
+              "RelativeToolTip": "FirstMVCWebApp\\Views\\Dashboard\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwBQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T17:04:44.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\appsettings.json",
+              "RelativeToolTip": "FirstMVCWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T04:24:38.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "FirstMVCWebApp\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T07:37:05.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Models\\User.cs",
+              "RelativeToolTip": "FirstMVCWebApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T04:36:52.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Dto\\UserDTO.cs",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Dto\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Dto\\UserDTO.cs",
+              "RelativeToolTip": "FirstMVCWebApp\\Dto\\UserDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T08:00:50.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Models\\Product.cs",
+              "RelativeToolTip": "FirstMVCWebApp\\Models\\Product.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T17:04:12.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Program.cs",
+              "RelativeToolTip": "FirstMVCWebApp\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:57:19.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\appsettings.Development.json",
+              "RelativeToolTip": "FirstMVCWebApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T18:00:26.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Dashboard\\Create.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Views\\Dashboard\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\Dashboard\\Create.cshtml",
+              "RelativeToolTip": "FirstMVCWebApp\\Views\\Dashboard\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T17:04:38.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "reconcile_migrations_and_users.sql",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Scripts\\reconcile_migrations_and_users.sql",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Scripts\\reconcile_migrations_and_users.sql",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Scripts\\reconcile_migrations_and_users.sql",
+              "RelativeToolTip": "FirstMVCWebApp\\Scripts\\reconcile_migrations_and_users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-23T18:23:47.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FirstMVCWebApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T17:06:18.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260523060000_addproducts.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Migrations\\20260523060000_addproducts.cs",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Migrations\\20260523060000_addproducts.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Migrations\\20260523060000_addproducts.cs",
+              "RelativeToolTip": "FirstMVCWebApp\\Migrations\\20260523060000_addproducts.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T17:06:12.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260523051502_dbinit.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Migrations\\20260523051502_dbinit.cs",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Migrations\\20260523051502_dbinit.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Migrations\\20260523051502_dbinit.cs",
+              "RelativeToolTip": "FirstMVCWebApp\\Migrations\\20260523051502_dbinit.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T05:15:02.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FirstMVCWebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T07:21:33.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "placeholder.png",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\wwwroot\\images\\placeholder.png",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\wwwroot\\images\\placeholder.png",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\wwwroot\\images\\placeholder.png",
+              "RelativeToolTip": "FirstMVCWebApp\\wwwroot\\images\\placeholder.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACDAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-05-23T17:39:01.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "toastr.min.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\wwwroot\\lib\\toastr\\toastr.min.css",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\wwwroot\\lib\\toastr\\toastr.min.css",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\wwwroot\\lib\\toastr\\toastr.min.css",
+              "RelativeToolTip": "FirstMVCWebApp\\wwwroot\\lib\\toastr\\toastr.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-23T17:36:54.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "site-custom.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\wwwroot\\css\\site-custom.css",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\wwwroot\\css\\site-custom.css",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\wwwroot\\css\\site-custom.css",
+              "RelativeToolTip": "FirstMVCWebApp\\wwwroot\\css\\site-custom.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-23T17:37:18.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site-interactions.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\wwwroot\\js\\site-interactions.js",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\wwwroot\\js\\site-interactions.js",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\wwwroot\\js\\site-interactions.js",
+              "RelativeToolTip": "FirstMVCWebApp\\wwwroot\\js\\site-interactions.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-23T17:37:05.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PROJECT_STRUCTURE.md",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\PROJECT_STRUCTURE.md",
+              "RelativeDocumentMoniker": "FirstMVCWebApp\\PROJECT_STRUCTURE.md",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\FirstMVCWebApp\\FirstMVCWebApp\\PROJECT_STRUCTURE.md",
+              "RelativeToolTip": "FirstMVCWebApp\\PROJECT_STRUCTURE.md",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-23T08:01:12.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateProductsTable.sql",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Scripts\\CreateProductsTable.sql",
+              "RelativeDocumentMoniker": "..\\..\\Scripts\\CreateProductsTable.sql",
+              "ToolTip": "C:\\Users\\ASUS\\Scripts\\CreateProductsTable.sql",
+              "RelativeToolTip": "..\\..\\Scripts\\CreateProductsTable.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-23T17:13:40.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

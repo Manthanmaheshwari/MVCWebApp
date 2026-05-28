@@ -1,0 +1,34 @@
+@model FirstMVCWebApp.Models.Product
+@{
+    ViewData["Title"] = "Edit Product";
+}
+
+<div class="container mt-5">
+    <h2>Edit Product</h2>
+
+    <form asp-action="Edit" method="post">
+        <input type="hidden" asp-for="ProductId" />
+        <div class="mb-3">
+            <label class="form-label">Name</label>
+            <input class="form-control" asp-for="Name" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Description</label>
+            <textarea class="form-control" asp-for="Description"></textarea>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Color</label>
+            <input class="form-control" asp-for="Color" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Price</label>
+            <input class="form-control" asp-for="Price" type="number" step="0.01" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Stock</label>
+            <input class="form-control" asp-for="Stock" type="number" />
+        </div>
+        <button class="btn btn-primary">Save</button>
+        <a class="btn btn-secondary ms-2" asp-action="Index">Back</a>
+    </form>
+</div>

@@ -1,0 +1,3 @@
+/* Minimal Toastr CSS placeholder */
+.toast-success{background-color:#51a351;color:#fff;padding:10px;border-radius:4px}
+.toast-error{background-color:#bd362f;color:#fff;padding:10px;border-radius:4px}
